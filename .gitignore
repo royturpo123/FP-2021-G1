@@ -1,0 +1,13 @@
+*.replit
+*.class
+*.jar
+#*/
+!*/.go
+!*/.java
+!*/.dart
+!*/.py
+!*/.rb
+!*/.scala
+!*/.cpp
+!*/.tk
+!**/
